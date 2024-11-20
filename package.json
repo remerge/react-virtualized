@@ -151,8 +151,5 @@
     "transform": [
       "loose-envify"
     ]
-  },
-  "resolutions": {
-    "fsevents": "2.1.2"
   }
 }
